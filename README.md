@@ -2,7 +2,7 @@
 
 Course notes from Cambridge Maths Part 3.
 
-* [Applications of Differential Geometry to Physics](ApplicationsofDifferentalGeometrytoPhysics.tex)
+* [Applications of Differential Geometry to Physics](ApplicationsofDifferentialGeometrytoPhysics.tex)
 * [Black Holes](BlackHoles.tex)
 * [Cosmology](Cosmology.tex)
 * [General Relativity](GeneralRelativity.tex)
